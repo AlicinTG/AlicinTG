@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlicinTG
-- 👀 I’m interested in AI
+- 👀 I’m interested in scripting
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on AI projects
+- 💞️ I’m looking to collaborate on AI and other python projects
 - 📫 How to reach me ...
 
 <!---
