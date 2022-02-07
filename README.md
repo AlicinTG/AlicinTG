@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding/scripting*sqling
 - 🌱 I’m currently learning python and front end dev.
 - 💞️ I’m looking to collaborate on AI and other python projects
-- 📫 How to reach me ...
+- 📫 How to reach me ...Not Now!!
 
 <!---
 AlicinTG/AlicinTG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
